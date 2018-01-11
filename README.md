@@ -1,5 +1,7 @@
 # Docker based web driver using Selenium/Firefox
 
+[![Codefresh build status]( https://g.codefresh.io/api/badges/build?repoOwner=Shaun1&repoName=selenium-docker&branch=master&pipelineName=selenium-docker&accountName=shaun1&type=cf-2)]( https://g.codefresh.io/repositories/Shaun1/selenium-docker/builds?filter=trigger:build;branch:master;service:5a57c31e0be7290001ff7d24~selenium-docker)
+
 Docs for [Selenium WebDriver for Python](https://selenium-python.readthedocs.io/)
 
 Selenium uses the [geckodriver](https://github.com/mozilla/geckodriver/releases)
